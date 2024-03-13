@@ -1,0 +1,2 @@
+Prefix plugins/RNAAnnotate/example/
+Plugin RNAAnnotate inputfile parameters.txt outputfile gene_annot.csv
